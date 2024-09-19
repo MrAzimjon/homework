@@ -649,6 +649,9 @@ footer{
     nav button{
         display: none;
     }
+    .img_main{
+        margin-top: 300px;
+    }
 
 }
 /* @media (min-width: 600px) {
